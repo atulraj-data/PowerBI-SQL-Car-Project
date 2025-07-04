@@ -31,3 +31,4 @@ LEFT JOIN Sales
     ON Sales.CAR_ID = Car.Car_ID
 LEFT JOIN Service_History
     ON Service_History.CAR_ID = Car.Car_ID
+-- updated for GitHub indexing
